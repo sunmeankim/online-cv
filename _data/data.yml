@@ -19,7 +19,7 @@ sidebar:
     github: 
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,6 +30,9 @@ sidebar:
 
       - idiom: English
         level: Professional
+
+      - idiom: 
+        level: 
 
     interests:
       - item: 
@@ -44,66 +47,108 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sunmean Kim received the B.S. and M.S. degrees in electrical engineering
-      from the Ulsan National University of Science and Technology (UNIST), Ulsan, South Korea,
-      in 2016 and 2018.
-      He is currently pursuing the Ph.D. degree with the CAD and SoC Design Laboratory
-      in Pohang University of Science and Technology, Pohang, South Korea. His current
-      research interests include digital circuit design for multi-valued logic using emerging
-      device technologies (Ternary CMOS, CNTFET, Graphene Barristor, and Ternary TFT).
+      Sunmean Kim received the B.S. and M.S. degrees in electrical engineering from the Ulsan National University of Science and Technology (UNIST), Ulsan, South Korea, in 2016 and 2018.
+      He is currently pursuing the Ph.D. degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology, Pohang, South Korea. His current research interests include digital circuit design for multi-valued logic using emerging device technologies (Ternary CMOS, CNTFET, Graphene Barristor, and Ternary TFT).
       Second paragraph if required.
 
 education:
-    - degree: PhD in Electrical Engineering
-      university: Ulsan National Institute of Science and Technology (UNIST)
-      time: 2018 - Present
-      details:
-          
-- degree: MSc in Electrical Engineering
-      university: Ulsan National Institute of Science and Technology (UNIST)
-      time: 2016 - 2018
-      details:
-          
-    - degree: BSc in Electrical and Computer Engineering (1st Electrical Engineering, 2nd Technology Management)
-      university: Ulsan National Institute of Science and Technology (UNIST)
-      time: 2011 - 2016
-      details:
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 experiences:
-    - role: Speciality Research Staff
-      time: 2019 - Present
-      company: Pohang University of Science and Technology, Pohang
-      details:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
 
-    - role: Visiting Researcher
-      time: 2018 - 2019
-      company: Pohang University of Science and Technology, Pohang
-      details:
+          - Bullet point
+          - Bullet point
+
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 projects:
     title: Projects
-    intro:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Integration & Verification Platform for Multi-Valued Logic Device
+      - title: Velocity
         link: "#hook"
-        tagline: "Optimized implementation of monolithic 3D IC multi-valued arithmetic logic unit system (ALU)"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Memcapacitor-based Multi-Valued Logic Architecture Research 
+      - title: DevStudio
         link: "#"
-        tagline: "Ternary logic circuits and non-volatile memory design using memcapacitor"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Graphene Barristor-based Ternary Logic Architecture Research
+      - title: Tempo
         link: "#"
-        tagline: "Physical design of ternary arithmetic logic unit (ALU) and system optimization using graphene barristor"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Ternary CMOS-based Ultra-Low Power Neural Network IC Design
+      - title: Atom
         link: "#"
-        tagline: "Physical design of ternary logic gates using ternary CMOS technology (DB HiTek 130nm process)"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Display Driver IC Design for a very high resolution TFT LCD panel
+      - title: Delta
         link: "#"
-        tagline: "Physical design of digital integrated circuit using Synopsys IC Compiler (MagnaChip 180nm process)"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
