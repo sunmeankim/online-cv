@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: sunmk@unist.ac.kr
     phone: +82-54-279-2883
-    website: www.researchgate.net/profile/Sunmean_Kim #do not add http://
+    website: #do not add http://
     linkedin: 
     github: 
     gitlab:
@@ -92,9 +92,9 @@ education:
           - Bullet point
           
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Speciality Research Staff
+      time: 2019 - Present
+      company: Pohang University of Science and Technology, Pohang
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -109,22 +109,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Visiting Researcher
+      time: 2018 - 2019
+      company: Pohang University of Science and Technology, Pohang
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
