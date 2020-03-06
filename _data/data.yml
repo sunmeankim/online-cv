@@ -108,7 +108,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Integration & Verification Platform for Multi-Valued Logic Device
+      - title: Integration, Verification Platform for Multi-Valued Logic Device
         link: "#hook"
         tagline: "Optimized implementation of monolithic 3D IC multi-valued arithmetic logic unit system (ALU)."
 
