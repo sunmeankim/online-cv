@@ -52,49 +52,32 @@ education:
     - degree: PhD in Electrical Engineering
       university: Ulsan National Institute of Science and Technology (UNIST)
       time: 2018 - Present
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details:
           
 - degree: MSc in Electrical Engineering
       university: Ulsan National Institute of Science and Technology (UNIST)
       time: 2016 - 2018
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details:
           
     - degree: BSc in Electrical and Computer Engineering (1st Electrical Engineering & 2nd Technology Management)
       university: Ulsan National Institute of Science and Technology (UNIST)
       time: 2011 - 2016
-      details: |
-
+      details:
 
 experiences:
     - role: Speciality Research Staff
       time: 2019 - Present
       company: Pohang University of Science and Technology, Pohang
-      details: |
+      details:
 
     - role: Visiting Researcher
       time: 2018 - 2019
       company: Pohang University of Science and Technology, Pohang
-      details: |
+      details:
 
 projects:
     title: Projects
-    intro: >
+    intro:
 
     assignments:
       - title: Integration & Verification Platform for Multi-Valued Logic Device
