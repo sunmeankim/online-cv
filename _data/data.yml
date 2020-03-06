@@ -108,9 +108,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Integration & Verification Platform for Multi-Valued Logic Device
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Optimized implementation of monolithic 3D IC multi-valued arithmetic logic unit system (ALU)."
 
       - title: DevStudio
         link: "#"
