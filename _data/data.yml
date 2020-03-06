@@ -65,9 +65,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MSc in Electrical Engineering
+      university: Ulsan National Institute of Science and Technology (UNIST)
+      time: 2016 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,7 +77,20 @@ education:
 
           - Bullet point
           - Bullet point
+          
+    - degree: BSc in Electrical and Computer Engineering (1st Electrical Engineering, 2nd Technology Management)
+      university: Ulsan National Institute of Science and Technology (UNIST)
+      time: 2011 - 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
+          - Bullet point
+          - Bullet point
+          
 experiences:
     - role: Lead Developer
       time: 2015 - Present
