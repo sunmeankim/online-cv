@@ -74,18 +74,6 @@ experiences:
       time: 2019 - Present
       company: Pohang University of Science and Technology, Pohang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
 
     - role: Visiting Researcher
       time: 2018 - 2019
@@ -108,7 +96,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Integration, Verification Platform for Multi-Valued Logic Device
+      - title: Integration & Verification Platform for Multi-Valued Logic Device
         link: "#hook"
         tagline: "Optimized implementation of monolithic 3D IC multi-valued arithmetic logic unit system (ALU)."
 
