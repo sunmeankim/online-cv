@@ -108,6 +108,11 @@ projects:
 publications:
     title: International Jorunal
     intro: |
+
+    papers:
+      - title: Tunneling-based ternary metal-oxide-semiconductor technology for digital paradigm shift
+        authors: Jae Won Jeong, Young-Eun Choi, Woo-Seok Kim, Jee-Ho Park, <strong>Sunmean Kim</strong>, Sunhae Shin, Kyuho Lee, Jiwon Chang, Seong-Jin Kim and Kyung Rok Kim
+        conference: Nature Electronics, 2019
         
     papers:
       - title: Ternary full adder using multi-threshold voltage graphene barristors
