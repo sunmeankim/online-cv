@@ -179,7 +179,8 @@ skills:
         authors: C++, Tcl, Verilog, etc.
         
       - title: Synopsys EDA tool
-        authors: HSPICE, Design Compiler, IC Compiler, etc.
+        authors: HSPICE, Design Compiler, PrimeTime, IC Compiler, etc.
+        
         
       - title: Cadence EDA tool
         authors: Spectre, Virtuoso, Innovus, etc.
