@@ -53,19 +53,19 @@ career-profile:
 
 education:
     - degree: PhD in Electrical Engineering
-      university: Ulsan National Institute of Science and Technology (UNIST)
+      university: Ulsan National Institute of Science and Technology
       time: 2018 - Present
       details: |
 
     - degree: MSc in Electrical Engineering
-      university: Ulsan National Institute of Science and Technology (UNIST)
+      university: Ulsan National Institute of Science and Technology
       time: 2016 - 2018
       details: |
           
     - degree: BSc in Electrical and Computer Engineering
-      university: Ulsan National Institute of Science and Technology (UNIST) |
-                  - Electrical Engineering (1st track)
-                  - Technology Management (2nd track)
+      university: Ulsan National Institute of Science and Technology
+                  Electrical Engineering (1st)
+                  Technology Management (2nd)
       time: 2011 - 2016
       details: |
           
@@ -78,6 +78,11 @@ experiences:
     - role: Visiting Researcher
       time: 2018 - 2019
       company: Pohang University of Science and Technology, Pohang
+      details: |
+      
+    - role: Graduate Student Researcher
+      time: 2018 - 2019
+      company: Ulsan National Institute of Science and Technology, Ulsan
       details: |
 
 projects:
