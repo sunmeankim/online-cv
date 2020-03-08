@@ -86,23 +86,23 @@ projects:
     assignments:
       - title: Multi-Value Logic Device Integration Process and Architecture Platform Research
         link: "#"
-        tagline: "National Ressearch Foundation, 2019-2021."
+        tagline: "National Ressearch Foundation, CNU, UNIST, POSTECH, 2019-2021."
 
       - title: Memcapacitor-based Multi-Valued Logic Architecture Research
         link: "#"
-        tagline: "National Ressearch Foundation, 2017-2023."
+        tagline: "National Ressearch Foundation, GIST, POSTECH, 2017-2023."
 
       - title: Graphene Barristor-based Ternary Logic Architecture Research
         link: "#"
-        tagline: "National Ressearch Foundation, 2016-2021."
+        tagline: "National Ressearch Foundation, GIST, UNIST, POSTECH, 2016-2021."
 
       - title: Ternary CMOS-based Ultra-Low Power Neural Network IC Design
         link: "#"
-        tagline: "Samsung Science & Technology Foundation, 2017-2018."
+        tagline: "Samsung Science & Technology Foundation, UNIST, 2017-2018."
 
       - title: Display Driver IC Design for a very high resolution TFT LCD panel 
         link: "#"
-        tagline: "Samsung Display Corporation, 2016-2017"
+        tagline: "Samsung Display Corporation, Samsung Electronics, UNIST, 2016-2017"
 
 publications:
     title: Publications
