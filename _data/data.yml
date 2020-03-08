@@ -63,11 +63,11 @@ education:
       details: |
           
     - degree: BSc in Electrical and Computer Engineering
-      university: Ulsan National Institute of Science and Technology (UNIST)
+      university: Ulsan National Institute of Science and Technology (UNIST) |
+                  - Electrical Engineering (1st track)
+                  - Technology Management (2nd track)
       time: 2011 - 2016
       details: |
-        - Electrical Engineering (1st track)
-        - Technology Management (2nd track)
           
 experiences:
     - role: Speciality Research Staff
@@ -79,14 +79,6 @@ experiences:
       time: 2018 - 2019
       company: Pohang University of Science and Technology, Pohang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
