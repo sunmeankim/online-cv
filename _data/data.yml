@@ -85,26 +85,35 @@ projects:
     intro: >
 
     assignments:
-      - title: Multi-Value Logic Device Integration Process and Architecture Platform Research
+      - title: Multi-valued logic device integration process and architecture platform research
         link: "#"
         tagline: "National Ressearch Foundation, CNU, UNIST, POSTECH, 2019-2021."
 
-      - title: Memcapacitor-based Multi-Valued Logic Architecture Research
+      - title: Memcapacitor-based multi-valued logic architecture research
         link: "#"
         tagline: "National Ressearch Foundation, GIST, POSTECH, 2017-2023."
 
-      - title: Graphene Barristor-based Ternary Logic Architecture Research
+      - title: Graphene barristor-based ternary logic architecture research
         link: "#"
         tagline: "National Ressearch Foundation, GIST, UNIST, POSTECH, 2016-2021."
 
-      - title: Ternary CMOS-based Ultra-Low Power Neural Network IC Design
+      - title: Ternary CMOS-based ultra-low power neural network IC design
         link: "#"
         tagline: "Samsung Science & Technology Foundation, UNIST, 2017-2018."
 
-      - title: Display Driver IC Design for a very high resolution TFT LCD panel 
+      - title: Display driver IC design for a very high resolution TFT LCD panel 
         link: "#"
         tagline: "Samsung Display Corporation, Samsung Electronics, UNIST, 2016-2017"
 
+publications:
+    title: International Jorunal
+    intro: |
+        
+    papers:
+      - title: Ternary full adder using multi-threshold voltage graphene barristors
+        authors: Sunwoo Heo†, <strong>Sunmean Kim</strong>†, Kiyung Kim, Hyeji Lee, So-Young Kim, Yun Ji Kim, Seung Mo Kim, Ho-In Lee, Segi Lee, Kyung Rok Kim, Seokhyeong Kang and Byoung Hun Lee †co-first author
+        conference: IEEE Electron Device Letters, 2018 
+        
 publications:
     title: International Conference
     intro: |
