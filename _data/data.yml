@@ -110,7 +110,7 @@ publications:
 
     papers:
       - title: A novel design methodology for error-resilient circuits in near-threshold computing
-        authors: Jaemin Lee, Sunmean Kim and Seokhyeong Kang
+        authors: Jaemin Lee, <strong>Sunmean Kim</strong> and Seokhyeong Kang
         conference: IEIE SoC Conference, 2016
 
 skills:
