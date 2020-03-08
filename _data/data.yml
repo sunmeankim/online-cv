@@ -177,16 +177,15 @@ skills:
     papers:
       - title: Programming/hardware description language
         authors: C++, Tcl, Verilog, etc.
+
         
-      - title: Synopsys EDA tool
-        authors: HSPICE, Design Compiler, PrimeTime, IC Compiler, etc.
-        
-        
-      - title: Cadence EDA tool
-        authors: Spectre, Virtuoso, Innovus, etc.
-        
-      - title: Other EDA tool
-        authors: Mentor Graphics Calibre, Silvaco Athena, etc.
+      - title: EDA tool
+        authors: Synopsys
+        conference: HSPICE, Design Compiler, PrimeTime, IC Compiler, etc.
+        authors: Cadence
+        conference: Spectre, Virtuoso, Innovus, etc.
+        authors: Others
+        conference: Mentor Graphics Calibre, Silvaco Athena, etc.
         
         
 footer: >
