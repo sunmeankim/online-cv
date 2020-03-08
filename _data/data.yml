@@ -112,7 +112,7 @@ publications:
     papers:
       - title: A logic synthesis methodology for low-power ternary logic circuits
         authors: <strong>Sunmean Kim</strong>, Sung-Yun Lee, Sunghye Park and Seokhyeong Kang
-        conference: IEEE Transactions on Circuits and Systems-I, 2020 (submitted)
+        conference: IEEE Transactions on Circuits and Systems-I, 2020 (Submitted)
         
       - title: Tunneling-based ternary metal-oxide-semiconductor technology for digital paradigm shift
         authors: Jae Won Jeong, Young-Eun Choi, Woo-Seok Kim, Jee-Ho Park, <strong>Sunmean Kim</strong>, Sunhae Shin, Kyuho Lee, Jiwon Chang, Seong-Jin Kim and Kyung Rok Kim
@@ -166,19 +166,19 @@ patents:
     papers:
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
-        conference: US 16/714,583 (applied)
+        conference: US 16/714,583 (Applied)
     
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
-        conference: Korea 10-2018-0173933 (applied)
+        conference: Korea 10-2018-0173933 (Applied)
 
       - title: APPARATUS FOR TERNARY SEQUENTIAL CIRCUIT
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Segi Lee
-        conference: Korea 10-1991622 (registered)
+        conference: Korea 10-1991622 (Registered)
         
       - title: APPARATUS FOR TERNARY LOGIC CIRCUIT
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Taeho Lim
-        conference: Korea 10-1928223 (registered)
+        conference: Korea 10-1928223 (Registered)
 
 skills:
     title: Skills &amp; Proficiency
