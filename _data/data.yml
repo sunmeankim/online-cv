@@ -182,8 +182,10 @@ skills:
       - title: EDA tool
         authors: Synopsys
         conference: HSPICE, Design Compiler, PrimeTime, IC Compiler, etc.
+        title:
         authors: Cadence
         conference: Spectre, Virtuoso, Innovus, etc.
+        title:
         authors: Others
         conference: Mentor Graphics Calibre, Silvaco Athena, etc.
         
