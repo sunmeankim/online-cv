@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sunmean Kim received the B.S. and M.S. degrees in electrical engineering from the Ulsan National University of Science and Technology (UNIST), Ulsan, South Korea, in 2016 and 2018.
+      Sunmean Kim received the B.Sc. and M.Sc. degrees in electrical engineering from the Ulsan National University of Science and Technology (UNIST), Ulsan, South Korea, in 2016 and 2018.
       He is currently pursuing the Ph.D. degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology, Pohang, South Korea. His current research interests include digital circuit design for multi-valued logic using emerging device technologies (Ternary CMOS, CNTFET, Graphene Barristor, and Ternary TFT).
 
 education:
@@ -99,13 +99,13 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Ternary CMOS-based Ultra-Low Power Neural Network IC Design
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Samsung Science & Technology Foundation, Physical design of ternary logic gates using ternary CMOS technology (DB HiTek 130nm process), 2017-2018."
 
-      - title: Delta
+      - title: Display Driver IC Design for a very high resolution TFT LCD panel 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Physical design of digital integrated circuit using Synopsys IC Compiler (MagnaChip 180nm process), 2016-2017"
 
 publications:
     title: Publications
