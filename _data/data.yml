@@ -65,20 +65,20 @@ education:
       details: |
           
 experiences:
-    - role: Speciality Research Staff
+    - role: Speciality research staff (Military service)
       time: 2019 - Present
       company: Pohang University of Science and Technology, Pohang
       details: |
 
-    - role: Visiting Researcher
-      time: 2018 - 2019
+    - role: Visiting researcher
+      time: 2018 - Present
       company: Pohang University of Science and Technology, Pohang
       details: |
       
-    - role: Graduate Student Researcher
+    - role: Graduate student researcher
       time: 2016 - 2018
       company: Ulsan National Institute of Science and Technology, Ulsan
-      details: |
+      details: Thesis: An optimal gate design for the Synthesis of ternary logic circuits
 
 projects:
     title: Projects
