@@ -63,9 +63,7 @@ education:
       details: |
           
     - degree: BSc in Electrical and Computer Engineering
-      university: Ulsan National Institute of Science and Technology >
-                  Electrical Engineering (1st)
-                  Technology Management (2nd)
+      university: Ulsan National Institute of Science and Technology
       time: 2011 - 2016
       details: |
           
@@ -81,7 +79,7 @@ experiences:
       details: |
       
     - role: Graduate Student Researcher
-      time: 2018 - 2019
+      time: 2016 - 2018
       company: Ulsan National Institute of Science and Technology, Ulsan
       details: |
 
@@ -91,7 +89,7 @@ projects:
 
     assignments:
       - title: Integration & Verification Platform for Multi-Valued Logic Device
-        link: "#hook"
+        link: "#"
         tagline: "Optimized implementation of monolithic 3D IC multi-valued arithmetic logic unit system (ALU)."
 
       - title: DevStudio
