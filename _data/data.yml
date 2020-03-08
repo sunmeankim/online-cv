@@ -50,17 +50,17 @@ career-profile:
 
 education:
     - degree: Ph.D. in Electrical Engineering
-      university: UNIST
+      university: Ulsan National Institute of Science and Technology
       time: 2018 - Present
       details: |
 
     - degree: M.Sc. in Electrical Engineering
-      university: UNIST
+      university: Ulsan National Institute of Science and Technology
       time: 2016 - 2018
       details: |
           
-    - degree: B.Sc. in Electrical and Computer Engineering
-      university: UNIST
+    - degree: B.Sc. in Electrical Engineering (1st), Technology Management (2nd) 
+      university: Ulsan National Institute of Science and Technology
       time: 2011 - 2016
       details: |
           
@@ -70,14 +70,14 @@ experiences:
       company: Pohang University of Science and Technology, Pohang
       details: |
 
-    - role: Visiting researcher
+    - role: Graduate student researcher
       time: 2018 - Present
-      company: Pohang University of Science and Technology, Pohang
+      company: CAD & SoC Design Lab., Pohang University of Science and Technology, Pohang
       details: |
       
     - role: Graduate student researcher
       time: 2016 - 2018
-      company: Ulsan National Institute of Science and Technology, Ulsan
+      company: SoC Design Lab., Ulsan National Institute of Science and Technology, Ulsan
       details: Thesis - An optimal gate design for the Synthesis of ternary logic circuits
 
 projects:
