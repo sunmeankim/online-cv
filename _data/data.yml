@@ -52,17 +52,17 @@ career-profile:
 
 education:
     - degree: Ph.D. in Electrical Engineering
-      university: Ulsan National Institute of Science and Technology
+      university: UNIST
       time: 2018 - Present
       details: |
 
     - degree: M.Sc. in Electrical Engineering
-      university: Ulsan National Institute of Science and Technology
+      university: UNIST
       time: 2016 - 2018
       details: |
           
     - degree: B.Sc. in Electrical and Computer Engineering
-      university: Ulsan National Institute of Science and Technology
+      university: UNIST
       time: 2011 - 2016
       details: |
           
@@ -93,7 +93,7 @@ projects:
 
       - title: Memcapacitor-based Multi-Valued Logic Architecture Research
         link: "#"
-        tagline: "National Ressearch Foundation, 2017-2023."
+        tagline: | "National Ressearch Foundation, 2017-2023."
 
       - title: Graphene Barristor-based Ternary Logic Architecture Research
         link: "#"
