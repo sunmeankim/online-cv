@@ -166,18 +166,16 @@ patents:
     papers:
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
-        conference: US 16/714,583
+        conference: US 16/714,583 (applied)
     
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
-        conference: Korea 10-2018-0173933
-        
-    papers:
+        conference: Korea 10-2018-0173933 (applied)
+
       - title: APPARATUS FOR TERNARY SEQUENTIAL CIRCUIT
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Segi Lee
         conference: Korea 10-1991622 (registered)
-
-    papers:
+        
       - title: APPARATUS FOR TERNARY LOGIC CIRCUIT
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Taeho Lim
         conference: Korea 10-1928223 (registered)
