@@ -49,20 +49,19 @@ career-profile:
     summary: |
       Sunmean Kim received the B.S. and M.S. degrees in electrical engineering from the Ulsan National University of Science and Technology (UNIST), Ulsan, South Korea, in 2016 and 2018.
       He is currently pursuing the Ph.D. degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology, Pohang, South Korea. His current research interests include digital circuit design for multi-valued logic using emerging device technologies (Ternary CMOS, CNTFET, Graphene Barristor, and Ternary TFT).
-      Second paragraph if required.
 
 education:
-    - degree: PhD in Electrical Engineering
+    - degree: Ph.D. in Electrical Engineering
       university: Ulsan National Institute of Science and Technology
       time: 2018 - Present
       details: |
 
-    - degree: MSc in Electrical Engineering
+    - degree: M.Sc. in Electrical Engineering
       university: Ulsan National Institute of Science and Technology
       time: 2016 - 2018
       details: |
           
-    - degree: BSc in Electrical and Computer Engineering
+    - degree: B.Sc. in Electrical and Computer Engineering
       university: Ulsan National Institute of Science and Technology
       time: 2011 - 2016
       details: |
@@ -88,15 +87,15 @@ projects:
     intro: >
 
     assignments:
-      - title: Integration & Verification Platform for Multi-Valued Logic Device
+      - title: Multi-Value Logic Device Integration Process and Architecture Platform Research (2019-2021)
         link: "#"
-        tagline: "Optimized implementation of monolithic 3D IC multi-valued arithmetic logic unit system (ALU)."
+        tagline: "National Ressearch Foundation, Optimized implementation of monolithic 3D IC multi-valued arithmetic logic unit system (ALU), 2019-2021."
 
-      - title: DevStudio
+      - title: Memcapacitor-based Multi-Valued Logic Architecture Research
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "National Ressearch Foundation, Ternary logic circuits and non-volatile memory design using memcapacitor, 2017-2023."
 
-      - title: Tempo
+      - title: Graphene Barristor-based Ternary Logic Architecture Research
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
