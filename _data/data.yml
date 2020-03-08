@@ -122,37 +122,31 @@ publications:
       - title: Extreme low power technology using ternary arithmetic logic circuits via drastic interconnect length reduction
         authors: Kiyung Kim, <strong>Sunmean Kim</strong>, Yongsu Lee, Daeyeon Kim, So-Young Kim, Seokhyeong Kang and Byoung Hun Lee
         conference: IEEE International Symposium on Multiple-Valued Logic (ISMVL), 2020
-
-    papers:
+        
       - title: Multi-threshold voltages graphene barristor-based ternary ALU
         authors: Sunghye Park, <strong>Sunmean Kim</strong> and Seokhyeong Kang
         conference: International SoC Design Conference (ISOCC), 2019
-    papers:
+
       - title: Ternary logic synthesis with modified Quine-McCluskey algorithm
         authors: Sung-Yun Lee, <strong>Sunmean Kim</strong> and Seokhyeong Kang
         conference: IEEE International Symposium on Multiple-Valued Logic (ISMVL), 2019
-        
-    papers:
+
       - title: Design of quad-edge-triggered sequential logic circuits for ternary logic
         authors: <strong>Sunmean Kim</strong>, Sung-Yun Lee, Sunghye Park and Seokhyeong Kang
         conference: IEEE International Symposium on Multiple-Valued Logic (ISMVL), 2019
-
-    papers:
+        
       - title: Multi-threshold graphene barristor for standard ternary inverter
         authors: Kiyung Kim, Sunwoo Heo, <strong>Sunmean Kim</strong>, Seung Mo Kim, Ho-In Lee, Billal Allouche, Seokhyeong Kang and Byoung Hun Lee
         conference: International Conference on Electronic Materials and Nanotechnology for Green Environment (ENGE), 2018
-        
-    papers:
+
       - title: An optimal gate design for the Synthesis of ternary logic circuits
         authors: <strong>Sunmean Kim</strong>, Taeho Lim and Seokhyeong Kang
         conference: IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2018
-        
-    papers:
+
       - title: A novel ternary multiplier based on ternary CMOS compact model
         authors: Yesung Kang, Jaewoo Kim, <strong>Sunmean Kim</strong>, Sunhae Shin, E-San Jang, Jae Won Jeong, Kyung Rok Kim and Seokhyeong Kang
         conference: IEEE International Symposium on Multiple-Valued Logic (ISMVL), 2017
-        
-    papers:
+
       - title: A novel design methodology for error-resilient circuits in near-threshold computing
         authors: Jaemin Lee, <strong>Sunmean Kim</strong>, Youngmin Kim and Seokhyeong Kang
         conference: IEEE International Conference on Consumer Electronics-Asia (ICCE-ASIA), 2016
