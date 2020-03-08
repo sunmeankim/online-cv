@@ -175,11 +175,17 @@ skills:
     intro: |
     
     papers:
-      - title: Programming Language
-        authors: C++, Tcl, Verilog
+      - title: Programming/hardware description language
+        authors: C++, Tcl, Verilog, etc.
         
-      - title: Programming Language
-        authors: C++, Tcl, Verilog
+      - title: Synopsys EDA tool
+        authors: HSPICE, Design Compiler, IC Compiler, etc.
+        
+      - title: Cadence EDA tool
+        authors: Spectre, Virtuoso, Innovus, etc.
+        
+      - title: Other EDA tool
+        authors: Mentor Graphics Calibre, Silvaco Athena, etc.
         
         
 footer: >
