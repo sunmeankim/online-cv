@@ -63,7 +63,7 @@ education:
       details: |
           
     - degree: BSc in Electrical and Computer Engineering
-      university: Ulsan National Institute of Science and Technology
+      university: Ulsan National Institute of Science and Technology >
                   Electrical Engineering (1st)
                   Technology Management (2nd)
       time: 2011 - 2016
@@ -88,9 +88,6 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Integration & Verification Platform for Multi-Valued Logic Device
