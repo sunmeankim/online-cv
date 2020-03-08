@@ -176,8 +176,8 @@ skills:
     
     papers:
       - title: Programming/hardware description language
-        authors:
-      - conferences: C++, Tcl, Verilog
+        authors: .
+        conferences: C++, Tcl, Verilog
         
       - title: EDA tool
         authors: Synopsys
