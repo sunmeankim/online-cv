@@ -159,6 +159,29 @@ conferences:
         authors: Jaemin Lee, <strong>Sunmean Kim</strong>, Youngmin Kim and Seokhyeong Kang
         conference: IEEE International Conference on Consumer Electronics-Asia (ICCE-ASIA), 2016
 
+patents:
+    title: Patents
+    intro: |
+    
+    papers:
+      - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
+        authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
+        conference: US 16/714,583
+    
+      - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
+        authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
+        conference: Korea 10-2018-0173933
+        
+    papers:
+      - title: APPARATUS FOR TERNARY SEQUENTIAL CIRCUIT
+        authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Segi Lee
+        conference: Korea 10-1991622 (registered)
+
+    papers:
+      - title: APPARATUS FOR TERNARY LOGIC CIRCUIT
+        authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Taeho Lim
+        conference: Korea 10-1928223 (registered)
+
 skills:
     title: Skills &amp; Proficiency
 
