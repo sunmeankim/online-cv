@@ -44,8 +44,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sunmean Kim received the B.Sc. and M.Sc. degrees in electrical engineering from the Ulsan National University of Science and Technology (UNIST), Ulsan, South Korea, in 2016 and 2018.
-      He is currently pursuing the Ph.D. degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology, Pohang, South Korea. His current research interests include digital circuit design for multi-valued logic using emerging device technologies (Ternary CMOS, Carbon Nanotube FET, Graphene Barristor, and 2D Material).
+      Sunmean Kim received the B.Sc. and M.Sc. degrees in electrical engineering from the Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea, in 2016 and 2018.
+      He is currently pursuing the Ph.D. degree with the CAD and SoC Design Laboratory in Pohang University of Science and Technology (POSTECH), Pohang, South Korea.
+      His current research interests include digital circuit design for multi-valued logic using emerging device technologies (Ternary CMOS, Carbon Nanotube FET, Graphene Barristor, and 2D Material).
 
 education:
     - degree: Ph.D. in Electrical Engineering
@@ -107,6 +108,26 @@ projects:
 publications:
     title: Publications
     intro: |
+    
+    papers:
+      - title: Multi-threshold graphene barristor for standard ternary inverter
+        authors: Kiyung Kim, Sunwoo Heo, Sunmean Kim, Seung Mo Kim, Ho-In Lee, Billal Allouche, Seokhyeong Kang and Byoung Hun Lee
+        conference: International Conference on Electronic Materials and Nanotechnology for Green Environment (ENGE), 2018
+        
+    papers:
+      - title: An optimal gate design for the Synthesis of ternary logic circuits
+        authors: Sunmean Kim, Taeho Lim and Seokhyeong Kang
+        conference: IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2018
+        
+    papers:
+      - title: A novel ternary multiplier based on ternary CMOS compact model
+        authors: Yesung Kang, Jaewoo Kim, Sunmean Kim, Sunhae Shin, E-San Jang, Jae Won Jeong, Kyung Rok Kim and Seokhyeong Kang
+        conference: IEEE International Symposium on Multiple-Valued Logic (ISMVL), 2017
+        
+    papers:
+      - title: A novel design methodology for error-resilient circuits in near-threshold computing
+        authors: Jaemin Lee, Sunmean Kim, Youngmin Kim and Seokhyeong Kang
+        conference: IEEE International Conference on Consumer Electronics-Asia (ICCE-ASIA), 2016
 
     papers:
       - title: A novel design methodology for error-resilient circuits in near-threshold computing
