@@ -180,7 +180,7 @@ skills:
         
       - title: EDA tool
         authors: Synopsys
-        conference: HSPICE, Design Compiler, PrimeTime, IC Compiler
+        conference: - HSPICE, Design Compiler, PrimeTime, IC Compiler
         
       - title:
         authors: Cadence
