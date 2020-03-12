@@ -176,7 +176,7 @@ skills:
     
     papers:
       - title: Programming/hardware description language
-        conference: ─ C++, Tcl, Verilog
+        conference: C++, Tcl, Verilog
         
       - title: EDA tool
         authors: Synopsys
@@ -188,7 +188,7 @@ skills:
         
       - title:
         authors: Others
-        conference: － Mentor Graphics Calibre, Silvaco Athena, etc.
+        conference: Mentor Graphics Calibre, Silvaco Athena, etc.
         
         
 footer: >
