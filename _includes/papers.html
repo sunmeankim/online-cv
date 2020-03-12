@@ -1,23 +1,23 @@
 
-{% assign patents = site.data.data.patents %}
-{% if patents %}
-<section class="section patents-section">
+{% assign papers = site.data.data.papers %}
+{% if papers %}
+<section class="section papers-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    {{ patents.title }}
+    {{ papers.title }}
   </h2>
 
-  {% if patents.intro %}
+  {% if papers.intro %}
   <div class="intro">
-    {{ patents.intro | markdownify }}
+    {{ papers.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in patents.papers %}
+  {% for publication in papers.papers %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
