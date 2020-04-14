@@ -92,7 +92,7 @@ experiences:
     - role: Undergraduate student researcher
       time: 2015 - 2016
       company: SoC Design Lab., Ulsan National Institute of Science and Technology, Ulsan
-      details: "-- Advisor: Prof. Seokhyeong Kang"
+      details: -" Advisor: Prof. Seokhyeong Kang"
 
 projects:
     title: Projects
