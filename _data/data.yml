@@ -31,6 +31,16 @@ sidebar:
       - idiom: English
         level: Professional
 
+    interests:
+      - item: VLSI CAD / System on Chip
+        link:
+        
+      - item: Multi-valued Logic / Ternary Logic Circuits
+        link:
+        
+      - item: Low Power Digital Systems / In-memory Computing
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
