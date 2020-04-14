@@ -115,9 +115,9 @@ projects:
         link: "#"
         tagline: "Samsung Science & Technology Foundation, UNIST, 2017-2018."
 
-      - title: Display driver IC design for a very high resolution TFT LCD panel 
+      - title: "Display driver IC design for a very high resolution TFT LCD panel <br>"
         link:
-        tagline: <br> Samsung Display Corporation, Samsung Electronics, UNIST, 2016-2017
+        tagline: Samsung Display Corporation, Samsung Electronics, UNIST, 2016-2017
 
 journals:
     title: International Journals
