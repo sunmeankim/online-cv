@@ -32,13 +32,22 @@ sidebar:
         level: Professional
 
     interests:
-      - item: VLSI CAD / System on Chip
+      - item: VLSI Computer-aided Design
+        link:
+                
+      - item: System on Chip Design
         link:
         
-      - item: Multi-valued Logic / Ternary Logic Circuits
+      - item: Multi-valued Logic
         link:
         
-      - item: Low Power Digital Systems / In-memory Computing
+      - item: Ternary Logic Circuits
+        link:
+        
+      - item: Low Power Digital Systems
+        link:
+        
+      - item: In-memory Computing
         link:
         
 career-profile:
