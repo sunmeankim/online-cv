@@ -126,7 +126,7 @@ journals:
     papers:
       - title: A logic synthesis methodology for low-power ternary logic circuits
         authors: <strong>Sunmean Kim</strong>, Sung-Yun Lee, Sunghye Park, Kyung Rok Kim and Seokhyeong Kang
-        conference: IEEE  Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2020 (Accepted)
+        conference: IEEE Transactions on Circuits and Systems I\: Regular Papers (TCAS-I), 2020 (Accepted)
         
       - title: Tunneling-based ternary metal-oxide-semiconductor technology for digital paradigm shift
         authors: Jae Won Jeong, Young-Eun Choi, Woo-Seok Kim, Jee-Ho Park, <strong>Sunmean Kim</strong>, Sunhae Shin, Kyuho Lee, Jiwon Chang, Seong-Jin Kim and Kyung Rok Kim
@@ -134,7 +134,7 @@ journals:
 
       - title: Ternary full adder using multi-threshold voltage graphene barristors
         authors: Sunwoo Heo†, <strong>Sunmean Kim</strong>†, Kiyung Kim, Hyeji Lee, So-Young Kim, Yun Ji Kim, Seung Mo Kim, Ho-In Lee, Segi Lee, Kyung Rok Kim, Seokhyeong Kang and Byoung Hun Lee †co-first author
-        conference: IEEE Electron Device Letters, 2018 
+        conference: IEEE Electron Device Letters (EDL), 2018 
         
 conferences:
     title: International Conference
