@@ -199,10 +199,10 @@ skills:
     intro: |
     
     papers:
-      - title: Programming/hardware description language
+      - title: Programming / Hardware Description Language
         conference: ― C++, Tcl, Verilog
         
-      - title: EDA tool
+      - title: Electronic Design Automation Tool
         authors: Synopsys
         conference: ― HSPICE, Design Compiler, PrimeTime, IC Compiler
         
