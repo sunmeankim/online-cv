@@ -77,22 +77,22 @@ experiences:
     - role: Speciality research staff (Military service)
       time: 2019 - Present
       company: Pohang University of Science and Technology, Pohang
-      details: Secondment from Ulsan National Institute of Science and Technology
+      details: "- Secondment from Ulsan National Institute of Science and Technology"
 
     - role: Graduate student researcher
       time: 2018 - Present
       company: CAD & SoC Design Lab., Pohang University of Science and Technology, Pohang
-      details: Advisor - Prof. Seokhyeong Kang (POSTECH) & Prof. Kyung Rok Kim (UNIST)
+      details: "- Advisor: Prof. Seokhyeong Kang (POSTECH) & Prof. Kyung Rok Kim (UNIST)"
       
     - role: Graduate student researcher
       time: 2016 - 2018
       company: SoC Design Lab., Ulsan National Institute of Science and Technology, Ulsan
-      details: Advisor - Prof. Seokhyeong Kang <br> Thesis - An optimal gate design for the synthesis of ternary logic circuits
+      details: "- Advisor: Prof. Seokhyeong Kang <br> Thesis: An optimal gate design for the synthesis of ternary logic circuits"
       
     - role: Undergraduate student researcher
       time: 2015 - 2016
       company: SoC Design Lab., Ulsan National Institute of Science and Technology, Ulsan
-      details: Advisor - Prof. Seokhyeong Kang
+      details: "- Advisor: Prof. Seokhyeong Kang"
 
 projects:
     title: Projects
