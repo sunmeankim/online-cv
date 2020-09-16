@@ -1,4 +1,3 @@
-
 {% assign referee = site.data.data.referee %}
 {% if referee %}
 <section class="section publications-section">
@@ -17,10 +16,9 @@
   </div><!--//intro-->
   {% endif %}
 
-
   {% for publication in referee.papers %}
   <div class="item">
-    <li><div class="publication-title">{{ publication.title }}</div>
+    <li>{{ publication.title }}</div>
         <div class="publication-authors">{{ publication.authors }}</div>
         <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
