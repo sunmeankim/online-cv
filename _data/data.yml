@@ -141,7 +141,7 @@ journals:
         conference: IEEE Electron Device Letters (EDL), 2018 
         
 conferences:
-    title: International Conference
+    title: International Conferences
     intro: |
         
     papers:
@@ -178,7 +178,7 @@ conferences:
         conference: IEEE International Conference on Consumer Electronics-Asia (ICCE-ASIA), 2016
 
 patents:
-    title: Patent
+    title: Patents
     intro: |
     
     papers:
