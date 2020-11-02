@@ -145,6 +145,14 @@ conferences:
     intro: |
         
     papers:
+      - title: Low-Power 4-Trit Current-Steering DAC for Ternary Data Conversion
+        authors: Youngchang Choi, <strong>Sunmean Kim</strong>, Seunghan Baek and Seokhyeong Kang
+        conference: International SoC Design Conference (ISOCC), 2020
+        
+      - title: MTCMOS-based Ternary to Binary Converter
+        authors: Seunghan Baek, <strong>Sunmean Kim</strong>, Youngchang Choi and Seokhyeong Kang
+        conference: International SoC Design Conference (ISOCC), 2020
+    
       - title: Extreme low power technology using ternary arithmetic logic circuits via drastic interconnect length reduction
         authors: Kiyung Kim, <strong>Sunmean Kim</strong>, Yongsu Lee, Daeyeon Kim, So-Young Kim, Seokhyeong Kang and Byoung Hun Lee
         conference: IEEE International Symposium on Multiple-Valued Logic (ISMVL), 2020
