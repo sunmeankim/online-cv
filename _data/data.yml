@@ -190,6 +190,10 @@ patents:
     intro: |
     
     papers:
+      - title: APPARATUS FOR LOW POWER TERNARY LOGIC CIRCUIT
+        authors: Seokhyeong Kang, Sunghye Park, Sung-Yun Lee, <strong>Sunmean Kim</strong>
+        conference: Korea 10-2020-0129024 (Applied)
+        
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
         conference: US 16/714,583 (Applied)
