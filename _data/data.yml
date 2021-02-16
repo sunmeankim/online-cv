@@ -53,9 +53,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      "&nbsp Sunmean Kim received the B.S., M.S., and Ph.D. degrees in electrical engineering from the Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea, in 2016, 2018, and 2021, respectively.
+      &nbsp; Sunmean Kim received the B.S., M.S., and Ph.D. degrees in electrical engineering from the Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea, in 2016, 2018, and 2021, respectively.
       He is currently a postdoctoral researcher with the CAD and SoC Design Laboratory (CSDL) in Pohang University of Science and Technology (POSTECH), Pohang, South Korea.
-      <br> &nbsp His current research interests include digital circuits design for multi-valued logic using emerging technologies (Ternary CMOS, Carbon Nanotube FET, Graphene Barristor, and 2D Material-based Devices)."
+      <br> &nbsp; His current research interests include digital circuits design for multi-valued logic using emerging technologies (Ternary CMOS, Carbon Nanotube FET, Graphene Barristor, and 2D Material-based Devices).
 
 education:
     - degree: Ph.D. in Electrical Engineering
