@@ -132,6 +132,10 @@ journals:
     intro: |
 
     papers:
+      - title: Design method for multi-digit converters between binary and ternary logic
+        authors: Seunghan Baek, <strong>Sunmean Kim</strong>, Youngchang Choi, and Seokhyeong Kang
+        conference: "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), (submitted)"    
+    
       - title: Low-power ternary multiplication using approximate computing
         authors: <strong>Sunmean Kim</strong>, Yesung Kang, Seunghan Baek, Youngchang Choi, and Seokhyeong Kang
         conference: "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), (submitted)"
