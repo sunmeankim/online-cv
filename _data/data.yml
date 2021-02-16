@@ -133,11 +133,11 @@ journals:
 
     papers:
       - title: Design method for multi-digit converters between binary and ternary logic
-        authors: Seunghan Baek, <strong>Sunmean Kim</strong>, Youngchang Choi, and Seokhyeong Kang
+        authors: Seunghan Baek, <strong>Sunmean Kim</strong>, Youngchang Choi and Seokhyeong Kang
         conference: "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), (submitted)"    
     
       - title: Low-power ternary multiplication using approximate computing
-        authors: <strong>Sunmean Kim</strong>, Yesung Kang, Seunghan Baek, Youngchang Choi, and Seokhyeong Kang
+        authors: <strong>Sunmean Kim</strong>, Yesung Kang, Seunghan Baek, Youngchang Choi and Seokhyeong Kang
         conference: "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), (submitted)"
         
       - title: A logic synthesis methodology for low-power ternary logic circuits
@@ -157,6 +157,10 @@ conferences:
     intro: |
         
     papers:
+      - title: Demonstration of novel anti-ambipolar switch (AAS) device and its applications for extremely low power ternary logic circuits
+        authors: Yongsu Lee, <strong>Sunmean Kim</strong>, Ho-In Lee, Seung-Mo Kim, So-Young Kim, Kiyung Kim, Seokhyeong Kang and Byoung Hun Lee
+        conference: IEEE Symposium on VLSI Technology (submitted)
+        
       - title: Design and analysis of a low-power ternary SRAM
         authors: Youngchang Choi, <strong>Sunmean Kim</strong>, Kyongsu Lee and Seokhyeong Kang
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2020    
