@@ -104,6 +104,9 @@ projects:
     intro: >
 
     assignments:
+      - title: "Ternary/Quaternary devices and circuits based on two-dimensional semiconductor heterojunctions <br>"
+        link: "#"
+        tagline: "Samsung Science & Technology Foundation, SKKU, POSTECH, 2020-2022."    
       - title: "Multi-valued logic device integration process and architecture platform research <br>"
         link: "#"
         tagline: "National Ressearch Foundation, CNU, UNIST, POSTECH, 2019-2021."
