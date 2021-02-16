@@ -157,13 +157,17 @@ conferences:
     intro: |
         
     papers:
+      - title: Design and analysis of a low-power ternary SRAM
+        authors: Youngchang Choi, <strong>Sunmean Kim</strong>, Kyongsu Lee and Seokhyeong Kang
+        conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2020    
+    
       - title: Low-power 4-trit current-steering DAC for ternary data conversion
         authors: Youngchang Choi, <strong>Sunmean Kim</strong>, Seunghan Baek and Seokhyeong Kang
-        conference: International SoC Design Conference (ISOCC), 2020
+        conference: IEEE International SoC Design Conference (ISOCC), 2020
         
       - title: MTCMOS-based ternary to binary converter
         authors: Seunghan Baek, <strong>Sunmean Kim</strong>, Youngchang Choi and Seokhyeong Kang
-        conference: International SoC Design Conference (ISOCC), 2020
+        conference: IEEE International SoC Design Conference (ISOCC), 2020
     
       - title: Extreme low power technology using ternary arithmetic logic circuits via drastic interconnect length reduction
         authors: Kiyung Kim, <strong>Sunmean Kim</strong>, Yongsu Lee, Daeyeon Kim, So-Young Kim, Seokhyeong Kang and Byoung Hun Lee
@@ -171,7 +175,7 @@ conferences:
         
       - title: Multi-threshold voltages graphene barristor-based ternary ALU
         authors: Sunghye Park, <strong>Sunmean Kim</strong> and Seokhyeong Kang
-        conference: International SoC Design Conference (ISOCC), 2019
+        conference: IEEE International SoC Design Conference (ISOCC), 2019
 
       - title: Ternary logic synthesis with modified Quine-McCluskey algorithm
         authors: Sung-Yun Lee, <strong>Sunmean Kim</strong> and Seokhyeong Kang
