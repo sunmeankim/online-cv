@@ -170,10 +170,6 @@ conferences:
     intro: |
         
     papers:
-      - title: Demonstration of novel anti-ambipolar switch (AAS) device and its applications for extremely low power ternary logic circuits
-        authors: Yongsu Lee, <strong>Sunmean Kim</strong>, Ho-In Lee, Seung-Mo Kim, So-Young Kim, Kiyung Kim, Seokhyeong Kang and Byoung Hun Lee
-        conference: IEEE Symposium on VLSI Technology (submitted)
-        
       - title: Design and analysis of a low-power ternary SRAM
         authors: Youngchang Choi, <strong>Sunmean Kim</strong>, Kyongsu Lee and Seokhyeong Kang
         conference: IEEE International Symposium on Circuits and Systems (ISCAS), 2021    
