@@ -219,21 +219,21 @@ patents:
     intro: |
     
     papers:
-      - title: APPARATUS FOR LOW POWER TERNARY LOGIC CIRCUIT
+      - title: TERNARY LOGIC CIRCUIT DEVICE II
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee, Sunghye Park
-        conference: US 17/175570 (Applied)
+        conference: Korea 10-2021-0055864 (Applied)
+        
+      - title: TERNARY LOGIC CIRCUIT DEVICE I
+        authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee, Sunghye Park
+        conference: Korea 10-2021-0055863 (Applied)
 
       - title: APPARATUS FOR LOW POWER TERNARY LOGIC CIRCUIT
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee, Sunghye Park
-        conference: Korea 10-2020-0129024 (Applied)
+        conference: Korea 10-2020-0129024 (Applied), US 17/175570 (Applied)
         
       - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
-        conference: US 16/714,583 (Registered)
-    
-      - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
-        authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Sung-Yun Lee
-        conference: Korea 10-2130980 (Registered)
+        conference: Korea 10-2130980 (Registered), US 16/714,583 (Registered)
 
       - title: APPARATUS FOR TERNARY SEQUENTIAL CIRCUIT
         authors: Seokhyeong Kang, <strong>Sunmean Kim</strong>, Segi Lee
